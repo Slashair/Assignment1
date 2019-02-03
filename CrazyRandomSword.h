@@ -1,20 +1,10 @@
-/* 
- * File:   CommonSpear.h
- * Author: Javier <jrescobara@gmail.com>
- *
- * Created on September 27, 2017, 4:15 PM
- */
 
 #include <string>
 #include "Weapon.h"
 
-#ifndef COMMONSPEAR_H
-#define COMMONSPEAR_H
+#ifndef CRAZYRANDOMSWORD_H
+#define CRAZYRANDOMSWORD_H
 
-/**
- * Defines the behavior of a common spear (hitpoint = 40, ignores 20% of 
- * armor points)
- */
 class CrazyRandomSword : public Weapon {
 public:
 
@@ -27,5 +17,5 @@ public:
 
 };
 
-#endif /* COMMONSPEAR_H */
+#endif
 
