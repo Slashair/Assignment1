@@ -1,0 +1,46 @@
+a) 
+wc-dhcp254d009:Assignment1 tanarin$ git push
+Username for 'https://github.com': slashair
+Password for 'https://slashair@github.com': 
+Counting objects: 7, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (7/7), 845 bytes | 422.00 KiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+To https://github.com/Slashair/Assignment1.git
+   3d373c9..863db50  master -> master
+
+b)There have been 5 commits. 2 by the TA and 3 from myself. This was found out by using the "git log" command.
+
+c) The .gitignore was modified last 18 days ago on Jan 10. This was found out by using the 
+"git log .gitignore" command
+
+d) Branches are used in a git repository so 1. We can split off the main code to test out new code without affected the original code, in case the new code is broken. 2. Branches also allow for collaboration with team members, when you branch off other people can still edit the code without having to wait for you to finish first to avoid failure of branch merges.
+
+e) git log shows all of the commits with their commit titles and notes while git status shows the files that have changed since the last commit, so git log is the past and git commit is the future.
+
+f)"git log Weapon.h"
+
+g) "git log --grep=file"
+
+h) i. Inheritance allows new objects/classes to have properties of existed objects or classes. An example would be if the kangaroo class inherits the mammal class, the mammal class's functions would allow the mammal to breathe(), therefor letting the kangaroo class to use the function breathe(), but the kangaroo class would also give itself a pouch() function.
+ii. Polymorphism is when you can have the same function name but because it takes in different 
+parameters, the function changes according to the paramter intake. An example is 2 jump() functions 
+but one is jump(int) and the other is jump(string). Depending on the type that goes in is 
+which function will be used.
+iii. Encapsulation is putting a bunch of information, data and functions, into a class.
+
+i) Dictator and Lieutenants workflow and the Centralized workflow are different becausee centralized 
+workflow can have anyone push their version to the repository whenever they're done and others would 
+have to update their version before pushing again. This is different than D&L because there people 
+submit their code to someone above them and and there is a hierarchy.
+
+j) A large team of 100 people would work better on a Dictators and Leutenants workflow because with more people there is a higher chance
+of code conflicts. With D&L the L can resolve code conflicts at a lower level before being pushed into another repository and being checked there. With these checkpoints we can avoid clashing interests and keeps the product more in tact. With a centralized workflow if anyone pushed their branch into the main repository it would be difficult to fix all the conflicts that woudl arise from the independant work of everyone.
+
+
+
+
+
+
