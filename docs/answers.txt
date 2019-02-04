@@ -39,7 +39,12 @@ submit their code to someone above them and and there is a hierarchy.
 j) A large team of 100 people would work better on a Dictators and Leutenants workflow because with more people there is a higher chance
 of code conflicts. With D&L the L can resolve code conflicts at a lower level before being pushed into another repository and being checked there. With these checkpoints we can avoid clashing interests and keeps the product more in tact. With a centralized workflow if anyone pushed their branch into the main repository it would be difficult to fix all the conflicts that woudl arise from the independant work of everyone.
 
-
+5.
+RoleGame OOP principles:
+The RolePlay game is using both polymorphism and encapsulation. The polymorphism is when we inherit
+Weapon on all of the new weapons we create. These inherit a hit function that we can edit in the
+inherited classes. Encapsulation is used when we made classes for all of the objects we create to hold 
+the functions and data of each item.
 
 
 
