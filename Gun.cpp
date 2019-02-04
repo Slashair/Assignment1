@@ -2,7 +2,7 @@
 #include "Gun.h"
 #include <cstdlib>
 
-double CommonSpear::hit(double armor) {
+double Gun::hit(double armor) {
     //gun is weak against armor but is lethal in places without it
     
     srand(time(NULL));

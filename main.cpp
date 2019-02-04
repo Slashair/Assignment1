@@ -10,6 +10,12 @@
 #include <iostream>
 #include "Weapon.h"
 #include "WeaponFactory.h"
+/*
+#include "CommonSpear.h"
+#include "CommonSword.h"
+#include "CrazyRandomSword.h"
+#include "Gun.h"
+*/
 
 using namespace std;
 
@@ -42,3 +48,15 @@ int main(int argc, char** argv) {
     return 0;
 }
 
+/*
+void simulateWeapon(Weapon * weapon, double armor) {
+    cout << weapon.getName() << ": " << endl;
+    for(int i = 0; i < 10; i++)
+    {
+        cout << "Damage done:" << weapon.hit(arm);
+        if(i < 9)
+            cout << " | ";
+    }
+ 
+}
+*/
