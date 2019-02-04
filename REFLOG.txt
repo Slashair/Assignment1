@@ -1,0 +1,42 @@
+e91b6f6 refs/remotes/origin/master@{0}: update by push
+e91b6f6 refs/heads/master@{0}: merge development: Fast-forward
+e91b6f6 HEAD@{0}: merge development: Fast-forward
+201b436 HEAD@{1}: checkout: moving from development to master
+e91b6f6 HEAD@{2}: checkout: moving from master to development
+201b436 HEAD@{3}: checkout: moving from development to master
+e91b6f6 refs/remotes/origin/development@{0}: update by push
+e91b6f6 refs/heads/development@{0}: commit: Finished the answers.txt
+e91b6f6 HEAD@{4}: commit: Finished the answers.txt
+c5057b7 refs/remotes/origin/development@{1}: update by push
+c5057b7 refs/heads/development@{1}: commit: Final Commit
+c5057b7 HEAD@{5}: commit: Final Commit
+8d6808f refs/remotes/origin/development@{2}: update by push
+8d6808f refs/heads/development@{2}: commit: Working on compiling
+8d6808f HEAD@{6}: commit: Working on compiling
+53ab475 refs/heads/development@{3}: commit: Changed files for linking
+53ab475 HEAD@{7}: commit: Changed files for linking
+454d15c refs/remotes/origin/development@{3}: update by push
+454d15c refs/heads/development@{4}: commit: Added Gun to game, corrected comments on others
+454d15c HEAD@{8}: commit: Added Gun to game, corrected comments on others
+e6be450 refs/remotes/origin/development@{4}: update by push
+e6be450 refs/heads/development@{5}: commit: CrazyRandomSword added
+e6be450 HEAD@{9}: commit: CrazyRandomSword added
+b5acb32 refs/remotes/origin/development@{5}: update by push
+b5acb32 refs/heads/development@{6}: commit: SimpleHammer
+b5acb32 HEAD@{10}: commit: SimpleHammer
+201b436 refs/heads/development@{7}: branch: Created from HEAD
+201b436 HEAD@{11}: checkout: moving from master to development
+201b436 refs/remotes/origin/master@{1}: update by push
+201b436 refs/heads/master@{1}: commit: Answered answers.txt
+201b436 HEAD@{12}: commit: Answered answers.txt
+80a7cec refs/remotes/origin/master@{2}: update by push
+80a7cec refs/heads/master@{2}: commit: Added answers.txt
+80a7cec HEAD@{13}: commit: Added answers.txt
+863db50 refs/remotes/origin/master@{3}: update by push
+863db50 refs/heads/master@{3}: commit: Git status output
+863db50 HEAD@{14}: commit: Git status output
+0119c4e refs/heads/master@{4}: commit: Changed README
+0119c4e HEAD@{15}: commit: Changed README
+3d373c9 refs/heads/master@{5}: clone: from https://github.com/Slashair/Assignment1.git
+3d373c9 refs/remotes/origin/HEAD@{0}: clone: from https://github.com/Slashair/Assignment1.git
+3d373c9 HEAD@{16}: clone: from https://github.com/Slashair/Assignment1.git
