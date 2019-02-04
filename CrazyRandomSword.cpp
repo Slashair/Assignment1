@@ -1,6 +1,7 @@
 
 #include "CrazyRandomSword.h"
 #include <cstdlib>
+#include <cmath>
 
 double CrazyRandomSword::hit(double armor) {
     //making the hitpoints here so it is random everytime the sword hits
@@ -20,5 +21,5 @@ double CrazyRandomSword::hit(double armor) {
     if (damage < 0) {
         return 0;
     }
-    return damage;
+    return floor(damage);
 }

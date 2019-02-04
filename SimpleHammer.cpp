@@ -1,5 +1,6 @@
 
 #include "SimpleHammer.h"
+#include <cmath>
 
 double SimpleHammer::hit(double armor) {
     double damage
@@ -15,5 +16,5 @@ double SimpleHammer::hit(double armor) {
     }
 
     
-    return damage;
+    return floor(damage);
 }

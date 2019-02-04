@@ -7,6 +7,7 @@
 
 #include <string>
 #include "Weapon.h"
+#include "Weapon.cpp"
 
 #ifndef COMMONSPEAR_H
 #define COMMONSPEAR_H
